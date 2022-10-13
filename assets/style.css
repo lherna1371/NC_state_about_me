@@ -1,0 +1,32 @@
+
+body {
+    background: blue;
+}
+
+
+
+div {
+  background: white;  
+}
+
+p {
+    color: blue;
+}
+
+li {
+    font-size: 35px;
+}
+
+img {
+    height: 45px;
+}
+
+.bg-green {
+    background: green;
+    height: 45px;
+    color: gold;
+}
+
+#red-color {
+    color: red;
+}
